@@ -1,0 +1,35 @@
+a {
+    text-align:center;
+    display:block;
+    color:lawngreen;
+}
+
+h1 {
+    text-align:center;
+    display:block;
+    color:lawngreen;
+    font-style:italic;
+}
+
+h2 {
+    text-align:center;
+    display:block;
+    color:lawngreen;
+}
+
+p {
+    text-align:center;
+    display:block;
+    color:lawngreen;
+}
+
+body {
+    background:black;
+
+}
+
+footer {
+    text-align:center;
+    display:block;
+    color:lawngreen;
+}
